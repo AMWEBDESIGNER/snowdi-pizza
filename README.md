@@ -14,4 +14,6 @@ Site vitrine statique pour **Snowdi Pizza**, pizzeria artisanale à La Joue du L
 - GitHub : https://github.com/AMWEBDESIGNER/snowdi-pizza
 - Pages : https://snowdi-pizza.pages.dev
 
-Confirmer les horaires, prix, menu, modalités de livraison, logo et photos avec Snowdi Pizza avant toute utilisation commerciale. Maquette indépendante.
+## Parcours livré
+
+L’accueil est complété par `gestes.html` et `infos.html`, avec l’univers de la pâte, emporter, livraison, coordonnées et itinéraire. Confirmer les horaires, prix, menu, modalités de livraison, logo et photos avec Snowdi Pizza avant toute utilisation commerciale. Maquette indépendante.
