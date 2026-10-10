@@ -17,3 +17,7 @@ Site vitrine statique pour **Snowdi Pizza**, pizzeria artisanale à La Joue du L
 ## Parcours livré
 
 L’accueil est complété par `gestes.html` et `infos.html`, avec l’univers de la pâte, emporter, livraison, coordonnées et itinéraire. Confirmer les horaires, prix, menu, modalités de livraison, logo et photos avec Snowdi Pizza avant toute utilisation commerciale. Maquette indépendante.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
